@@ -5,5 +5,3 @@ veamos
 a
 
 b
-
-c
